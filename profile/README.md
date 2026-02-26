@@ -27,7 +27,46 @@ The CS2 skin gambling ecosystem in 2026 demands more than visual design and bonu
 CSGOFAST has been active since 2015, placing it among the longer-running platforms in the CS2 skin gambling space. Longevity alone does not guarantee quality, but it significantly reduces the likelihood of short-term or fraudulent intent.
 
 ---
+## CSGOFAST Promo Codes
 
+CSGOFAST periodically provides promotional codes that unlock additional rewards for new and active users. These codes are typically activated during registration or before making a deposit.
+
+Below are current promo offers with direct activation links.
+
+---
+
+### CSLUCK
+
+**Bonus:** Free Starter Case + 5% Extra on First Deposit  
+**Activation Link:** [Activate CSLUCK Bonus](https://csgofast.com/?ref=CSLUCK)
+
+CSLUCK is designed as a lightweight entry bonus. It grants access to a promotional case and applies a small percentage boost to the first qualifying deposit.
+
+---
+
+### SKINBONUS
+
+**Bonus:** Free Skin Case + 10% Deposit Bonus  
+**Activation Link:** [Activate SKINBONUS Offer](https://csgofast.com/?ref=SKINBONUS)
+
+SKINBONUS unlocks a free skin case immediately after activation and adds a 10% bonus to the deposit amount.
+
+This code is often used by players who want to explore case openings while slightly increasing their starting balance.
+
+---
+
+### DEPOSITBONUS
+
+**Bonus:** 20% First Deposit Boost + Bonus Wheel Spin  
+**Activation Link:** [Claim DEPOSITBONUS Reward](https://csgofast.com/?ref=DEPOSITBONUS)
+
+DEPOSITBONUS applies a larger percentage increase to the first qualifying deposit and may include access to a promotional wheel spin.
+
+---
+
+### Important Note
+
+Promo code conditions, deposit requirements, and wagering rules may vary depending on active campaigns. Always review the platform's current terms before activating any promotional offer.
 ## Platform Structure and Usability
 
 CSGOFAST maintains a structured interface designed for repeated use. Navigation is straightforward, and essential elements such as balance tracking, game history, and inventory access are clearly visible.
