@@ -38,7 +38,7 @@ Below are current promo offers with direct activation links.
 ### CSLUCK
 
 **Bonus:** Free Starter Case + 5% Extra on First Deposit  
-**Activation Link:** [Activate CSLUCK Bonus](https://csgofast.com/?ref=CSLUCK)
+**Activation Link:** [Activate CSLUCK Bonus](https://csgofast.com/?ref=CS2LUCK)
 
 CSLUCK is designed as a lightweight entry bonus. It grants access to a promotional case and applies a small percentage boost to the first qualifying deposit.
 
